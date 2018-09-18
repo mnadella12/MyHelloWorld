@@ -1,1 +1,1 @@
-# MyHelloWorld - Sample Project
+# MyHelloWorld - Add more folders.  Start adding files to the repository
